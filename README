@@ -1,1 +1,4 @@
-# Just some image manipulation tools.
+# Images
+
+`gcf.go` can be used to reduce pixel art to a smaller size without losing quality. Say you have some pixel art where each block of color is 2x2 pixels.. this program will reduce the image size by 50%.
+`checkers.go` generates a checkerboard pattern. It can be used to demonstrate the effect of `gcf.go`
